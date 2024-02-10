@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "froglight",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:magenta_dye"
+    },
+    "3": {
+      "item": "minecraft:magenta_dye"
+    },
+    "4": {
+      "item": "minecraft:sea_lantern"
+    },
+    "5": {
+      "item": "minecraft:magenta_dye"
+    },
+    "7": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:pearlescent_froglight",
+    "count": 1
+  }
+}
