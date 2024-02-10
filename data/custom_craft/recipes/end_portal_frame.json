@@ -1,27 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "pattern": [
-    "012",
-    "345"
+    "#E#",
+    "YYY"
   ],
   "key": {
-    "0": {
+    "#": {
       "item": "minecraft:ender_pearl"
     },
-    "1": {
+    "E": {
       "item": "minecraft:ender_eye"
     },
-    "2": {
-      "item": "minecraft:ender_pearl"
-    },
-    "3": {
-      "item": "minecraft:end_stone"
-    },
-    "4": {
-      "item": "minecraft:end_stone"
-    },
-    "5": {
+    "Y": {
       "item": "minecraft:end_stone"
     }
   },
