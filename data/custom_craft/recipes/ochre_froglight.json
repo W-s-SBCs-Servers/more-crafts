@@ -1,27 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "group": "froglight",
-  "category": "misc",
   "pattern": [
-    " 1 ",
-    "345",
-    " 7 "
+    " # ",
+    "#S#",
+    " # "
   ],
   "key": {
-    "1": {
+    "#": {
       "item": "minecraft:yellow_dye"
     },
-    "3": {
-      "item": "minecraft:yellow_dye"
-    },
-    "4": {
+    "S": {
       "item": "minecraft:sea_lantern"
-    },
-    "5": {
-      "item": "minecraft:yellow_dye"
-    },
-    "7": {
-      "item": "minecraft:yellow_dye"
     }
   },
   "result": {
