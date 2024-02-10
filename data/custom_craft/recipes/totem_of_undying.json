@@ -1,32 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "pattern": [
-    "012",
-    "345",
-    " 7 "
+    "#g#",
+    "gEg",
+    " g "
   ],
   "key": {
-    "0": {
-      "item": "minecraft:emerald"
+    "#": {
+      "item": "minecraft:emerald_block"
     },
-    "1": {
+    "g": {
       "item": "minecraft:gold_ingot"
     },
-    "2": {
-      "item": "minecraft:emerald"
-    },
-    "3": {
-      "item": "minecraft:gold_ingot"
-    },
-    "4": {
+    "E": {
       "item": "minecraft:enchanted_golden_apple"
-    },
-    "5": {
-      "item": "minecraft:gold_ingot"
-    },
-    "7": {
-      "item": "minecraft:gold_ingot"
     }
   },
   "result": {
