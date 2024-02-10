@@ -1,30 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
   "pattern": [
-    " 1 ",
-    "345",
-    " 7 "
+    " # ",
+    "GXG",
+    " G "
   ],
   "key": {
-    "1": {
+    "#": {
+      "item": "minecraft:emerald"
+    },
+    "G": {
       "item": "minecraft:glass"
     },
-    "3": {
-      "item": "minecraft:glass"
-    },
-    "4": {
-      "item": "minecraft:enchanted_golden_apple"
-    },
-    "5": {
-      "item": "minecraft:glass"
-    },
-    "7": {
-      "item": "minecraft:glass"
+    "X": {
+      "item": "minecraft:golden_apple"
     }
   },
   "result": {
     "item": "minecraft:experience_bottle",
-    "count": 8
+    "count": 1
   }
 }
