@@ -1,19 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "  1",
-    " 2 ",
-    "2  "
-  ],
-  "key": {
-    "1": {
-      "item": "minecraft:string"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lead"
     },
-    "2": {
+    {
       "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
     }
-  },
+  ],
   "result": {
     "item": "minecraft:name_tag",
     "count": 1
